@@ -21,4 +21,8 @@ def emotion_detector(text_to_analyze):
                             'sadness': None, 
                             'dominant_emotion': None}
         return formated_response
+<<<<<<< HEAD
     
+=======
+    
+>>>>>>> 006d2778c7ccd6b3186a35ba76ec5157a7b9df80
